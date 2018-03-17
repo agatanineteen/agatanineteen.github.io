@@ -1,0 +1,52 @@
+* {
+	font-family: monospace;
+}
+
+h1 {
+	size: 200px;
+	color: dodgerblue;
+}
+
+body {
+	color: blue;
+}
+
+.kwadrat {
+	background-color: dodgerblue;
+	height: 200px;
+	width: 200px;
+	margin: 10px
+}
+
+/*#jeden {
+	font-size: 90px
+}*/
+
+main p {
+	color: black
+
+}
+
+p {
+	color: blue;
+}
+
+img:hover {
+	border-radius: 50%
+
+}
+
+main div {
+	display: inline-block;
+}
+
+img {
+	height: 1000px;
+}
+
+header {
+	background-color: pink;
+	position: sticky;
+	top: 10px;
+	border: 2px dashed blue;
+}
